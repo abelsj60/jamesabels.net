@@ -39,7 +39,7 @@ We were talking about whether I had enough experience to work on his startup's w
 
 I've been at Triple Point ever since. 
 
-Lately, I've been thinking about exploring a new personal project. I have some ideas about AI and media. I plan to start writing about them soon. But, before I do, I wanted to finish the thread that ties all these first Reveries together — starting over. 
+Lately, I've been thinking about a new personal project. I have some ideas about AI and media. I plan to start writing about them soon. But, before I do, I wanted to finish the thread that ties these first Reveries together — starting over. 
 
 I dedicate this site to anyone who breaks the rules — even if all the people, all the experienced people, call you crazy. There are no limits out there. 
 
