@@ -2,7 +2,6 @@ const HashedModuleIdsPlugin = require('html-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
 const RemovePlugin = require('remove-files-webpack-plugin');
-const ScriptExtHtmlWebpackPlugin = require('script-ext-html-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 
 // https://survivejs.com/webpack/optimizing/adding-hashes-to-filenames/
@@ -11,7 +10,6 @@ const TerserPlugin = require('terser-webpack-plugin');
 module.exports = (env, argv) => {
   return {
     entry: [
-      '@babel/polyfill',
       './app/index.js'
     ],
     output: {
@@ -23,7 +21,12 @@ module.exports = (env, argv) => {
     },
     devtool: argv.mode === 'development'
       ? 'source-map'
-      : '',
+      : false,
+    resolve: {
+      fallback: {
+        'buffer': false
+      }
+    },
     module: {
       rules: [
         {
@@ -40,9 +43,7 @@ module.exports = (env, argv) => {
               ],
               [
                 '@babel/preset-env', {
-                  'modules': 'false',
-                  'corejs': 2, // Corejs version, 3 breaks EVERYTHING
-                  'useBuiltIns': 'entry'
+                  'modules': 'auto',
                 }
               ]
             ]
@@ -67,8 +68,8 @@ module.exports = (env, argv) => {
       ]
     },
     optimization: {
-      minimizer: [ 
-        new TerserPlugin() 
+      minimizer: [
+        new TerserPlugin()
       ],
       splitChunks: {
         chunks: 'all'
@@ -92,9 +93,6 @@ module.exports = (env, argv) => {
           ? '/'
           : '/public/'
       }),
-      new ScriptExtHtmlWebpackPlugin({
-        defer: /\.js$/
-      })
     ]
   };
 };
