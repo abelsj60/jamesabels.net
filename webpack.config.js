@@ -40,7 +40,6 @@ module.exports = (env, argv) => {
               ],
               [
                 '@babel/preset-env', {
-                  'modules': 'false',
                   'corejs': 2, // Corejs version, 3 breaks EVERYTHING
                   'useBuiltIns': 'entry'
                 }
@@ -67,8 +66,8 @@ module.exports = (env, argv) => {
       ]
     },
     optimization: {
-      minimizer: [ 
-        new TerserPlugin() 
+      minimizer: [
+        new TerserPlugin()
       ],
       splitChunks: {
         chunks: 'all'
