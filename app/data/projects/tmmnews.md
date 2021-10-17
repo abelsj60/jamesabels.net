@@ -4,7 +4,7 @@ number:
 projectName: 
   'TMMnews'
 pitch: 
-  'Internet video news about media-tech'
+  "Rebuilding broadcast journalism online"
 type:
   'Founder'
 technologies: 
@@ -12,11 +12,11 @@ technologies:
 responsibility:
   'As the founder of Three Minute Media, I oversaw corporate affairs and platform development, including our lead developer, budget, and investor outreach.'
 story:
-  "We set out to produce original video news stories, sell high-priced video ads into them, then deliver the combined package to big audiences by buying up lower cost IAB ad boxes. We later built our own software (see Arrow and Slingshot)."
+  "We set out to produce original video news stories, sell high-priced video ads into them, then deliver the combined package to big audiences by buying up lower cost IAB ad boxes. We later built our own software (Arrow, then Slingshot)."
 captions: [
-  "The TMMnews Web site marketed the company's original video news stories. It featured news videos, reporter's notes, and aggregated headlines from Daylife, a New York-based start-up.",
-  'Original news stories were anchored by James Erik Abels, a former media reporter from Forbes and Mergermarket. Over 100 stories were produced, ranging from exclusives to news analyses.',
-  "In 2011, TMM was asked to contribute to New York City's FIRST Robotics Competition. A team of ten media professionals volunteered to run a three-hour live Internet broadcast of the event."
+  "The TMMnews Web site help market my original news videos. It featured my videos, reporter's notes, and aggregated headlines about video via a partnership with tech startup, Daylife.",
+  'I anchored my original news videos. I previously covered the digital media beat for Forbes and Mergermarket. I produced over 100 news stories, ranging from exclusives to news analyses.',
+  "In 2011, I was asked to contribute to New York City's FIRST Robotics Competition. I put together a volunteer team of ten media pros to broadcast a three-hour, live Internet broadcast of the event."
 ]
 description: [
   "This is a screenshot of tmmnews.com, the Web site that marketed Three Minute Media's news videos. The header is an off-black with light blue icons. The page beneath it is broken into two columns. The left column take up two-thirds of the content area, while the column beside it takes up the rest. The top of the left column shows a news show. Beneath the show is rectangular block of content named the 'Anchor's Notebook'. It consists of a headshot and short bio about the anchor, me, and three tabs. The first tab selects notes about the current story, and the following two show headlines related to the topics found within it. The top of left content column sit two large, dark-blue boxes containing headlines for stories that the anchor's chosen to feature. Just beneath sits a slider that features recent stories. Beneath that sits a tall box containing headlines about the anchor's beat (media + technology). These headlines were aggregated through a partnership with Daylife, a New York City start-up.",

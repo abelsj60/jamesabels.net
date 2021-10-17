@@ -29,17 +29,17 @@ It was stellar — an apprenticeship that meant the world to me.
 
 But I would need a full-time position at some point. 
 
-I thought I'd get there by building this website. 
+I thought I'd get one by building this website. 
 
-One day, I was on the phone with Jared Klee, the founder of Triple Point Liquidity. 
+One day, I was on the phone with Jared Klee, the founder of Triple Point Liquidity, a fintech startup. 
 
-We had just agreed that I didn't have enough experience to work on his start-up's webapp. Then I followed up with a question about the website I'd built. "But, who else would build something like this?"
+We were talking about whether I had enough experience to work on his startup's webapp. I solved the problem by asking a question about this website. "Who else would build something like this," I asked. 
 
 "Exx-xactly," he said.
 
 I've been at Triple Point ever since. 
 
-Lately, I've been thinking it's time to start exploring a new personal project. I have some ideas about AI and media. I plan to start writing about them soon. But, before I do, I wanted to finish the thread that ties all these first Reveries together — starting over. 
+Lately, I've been thinking about exploring a new personal project. I have some ideas about AI and media. I plan to start writing about them soon. But, before I do, I wanted to finish the thread that ties all these first Reveries together — starting over. 
 
 I dedicate this site to anyone who breaks the rules — even if all the people, all the experienced people, call you crazy. There are no limits out there. 
 

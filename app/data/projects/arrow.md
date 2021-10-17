@@ -1,6 +1,6 @@
 ---
 number: 
-  2
+  3
 projectName: 
   'Arrow'
 pitch: 
@@ -12,13 +12,13 @@ technologies:
 responsibility: 
   'As the founder of Three Minute Media, I oversaw corporate affairs and platform development, including our lead developer, budget, and investor outreach.'
 story: 
-  "Over 200 million people watch Internet video in the US every year. Arrow, our self-serve platform, made it easy for any publisher to personalize its video at scale."
+  "Over 200 million people watch Internet video in the US every year. Arrow made it easy for developers, marketers, and creators to personalize this video at scale."
 captions: [
-  'This is the Editor. It was used to prepare video for publication by adding them to a Stack, then selecting personalization criteria via dynamically generated settings. It syndicated video, too.',
-  'This is the Developer Module. It allowed Arrow to be extended for use with custom media formats, settings, and live control. Arrow could publish any code-based media package.',
-  'This is the Encapsulated Presentation Module ("EPM"). Developers used it to extend Arrow by mixing their source code with PubML, our proprietary domain-specific programming language.',
-  'These are Stack Settings. They were used by editors to add personalization criteria to their videos. These settings were dynamically generated from code found within each active EPM.',
-  'These are Live Controls. They were used by editors to modify media in real time, after publication. Like Settings, they were dynamically generated from code found within each active EPM.'
+  'This is the Editor. It was used to prepare video for delivery. Users created a Stack of video, paired it with a video player, then used customizable settings to control both interactive and live features.',
+  "This is the Developer Module. Developers used it to add media and user interfaces (UI) to Arrow. Journalists, marketers, and other non-developers, used these UIs to control media in the Editor.",
+  "This is an Encapsulated Presentation Module. Developers used it to program Arrow with custom media and UI by mixing their source code with PubML, our proprietary programming language.",
+  "These are Stack Settings. This custom UI gave users push-button control over the customization of media. The UI was dynamically generated from a web developer's EPM, which was licensable.",
+  "These are Live Controls. This custom UI offered live control over media on a network-wide basis. The UI was dynamically generated from a web developer's EPM, which was licensable."
 ]
 description: [
   "This is a screenshot of Arrow's Editor module. A large video preview sits at the top of the page, just beneath a header. A light grey line separates the preview from a set of asset libraries to the bottom left. A 'Stack Rack' sits to the bottom right. The Stack Rack consists of a blue-grey box with black and blue text, a set of large blue control buttons at the top — including items such as a plus sign, subtraction sign, and sideways triangle for play — and a video thumbnail in the active Stack list at the top of the Rack. The page background is white and icons representing Arrow's various modules are in a light blue Dock on the left edge of the screen.",

@@ -1,6 +1,6 @@
 ---
 number: 
-  4
+  2
 projectName: 
   'My personal site'
 pitch: 
@@ -12,12 +12,12 @@ technologies:
 responsibility: 
   'Creator and developer'
 story: 
-  'My portfolio site explores what happens when a creative codes.'
+  'My portfolio site explores what happens when a journalist codes.'
 captions: [
   "Full-screen illustrations and a secret magic spell bring my imagination to life.",
   "I came to N.Y.C. after law school to write professionally. Here are some of my stories.",
-  "This children's book for adults let me experiment with traditional storytelling methods online.",
-  "This digital business card tells you who I am and how you can contact me."
+  "This children's book for adults helped me experiment with traditional storytelling online.",
+  "My digital business card tells you how to contact me. I thought this was a fun way to do it."
 ]
 description: [
   "This image shows a screenshot of the front page of this site. It features a young man and fairy looking into a set of monitors that show a magical forrest. The forrest is blue and purple, has floating crystals and balls of light. An old stone portal sits in the center of the image. Runes ring its edges. At its center, which glows yellow-green, sits my name and a brief bio.",
